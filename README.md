@@ -16,3 +16,9 @@ Ensure you have the following installed:
 2. Install the required Python libraries. You can use the command:
    ```bash
    pip install -r requirements.txt
+
+
+https://github.com/Bakr-963/Traffic-Analysis-via-Object-Detection/assets/143032745/580215e6-ccf0-4fd8-a440-8ed2d2ddaa0a
+
+
+
