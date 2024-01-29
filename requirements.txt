@@ -1,0 +1,10 @@
+ipython
+Pillow
+opencv-python
+matplotlib
+numpy
+pandas
+seaborn
+shutil
+torch
+pyyaml
