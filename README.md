@@ -7,7 +7,7 @@ This Jupyter notebook presents a traffic density analysis using machine learning
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook
 - Required Python libraries: (list the libraries your notebook depends on, e.g., numpy, pandas, opencv-python, etc.)
 
